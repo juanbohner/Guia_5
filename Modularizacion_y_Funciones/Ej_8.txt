@@ -1,0 +1,10 @@
+typedef int auto ; /* categoría del auto */
+void f ( void )
+{
+ auto mi_auto ;
+ mi_auto = 735;
+}
+
+1) No se puede poner typedef int auto; auto no puede ser el nombre de una variable. Auto si podria ser.
+
+La funcion f crea una variable local llamada mi_auto que es del tipo int. Despues le asigna el valor 735. Falta poner return ; para salir de la funcion. No esta bien   que cree una funcion, le modifique el valor y esa funcion muere dentro de f cuando salimos  no hace nada.

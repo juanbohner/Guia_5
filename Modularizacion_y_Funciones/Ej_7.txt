@@ -1,0 +1,5 @@
+¿Es necesario incluir el nombre de los parámetros formales en el prototipo de una función? ¿Qué ventajas puede
+brindar?
+
+No es necesario incluir los nombres formales. Al no colocarlos podemos acortar un nombre muy largo que adeto de la definicion de la funcion, tenia sentido aplicarlo, debido que da claridad. Pero en el prototipo puede resultar incomodo dejarlo tan largo y represetativo. Podemos colocar uno mas corto facil de escribir adentro del prototipo, no va a afectar.
+
